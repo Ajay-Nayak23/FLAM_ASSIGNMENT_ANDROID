@@ -41,7 +41,7 @@ Space: O(capacity)
 
 ---
 
-### ✅ README for Question 2: **MyHashMap**
+### Question 2: **MyHashMap**
 
 ```markdown
 # MyHashMap Implementation
