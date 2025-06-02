@@ -1,4 +1,4 @@
-# LRU Cache Implementation
+# LRU Cache Implementation and MyHashMap (question-1 and question-2)
 
 ## Description
 
